@@ -1,11 +1,12 @@
-import './index.css'
+import "./index.css";
+import { Hero } from "./components/Hero.jsx";
+import { DmCard } from "./components/Card.jsx";
 
 export const App = () => {
   return (
     <>
-      <h1 className="font-extrabold text-7xl" >Hello World</h1>
-      <p className="font-semibold text-lg bg-red-400">Welcome to my first react project after a long time in a w</p>
+      <Hero />
+      <DmCard />
     </>
   );
 };
-
