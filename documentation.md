@@ -9,3 +9,5 @@
 Select React and Javascript, give project name in lowercase and start building
 `bun add tailwindcss tailwindcss@vite`
 
+## About React Hooks
+Today I am going to learn react hooks with the help of documentation from the official React documentation site and with the help of videos from youtubers like Mr.Hitesh Choudhary, Piyush Garg, Thapa Technical
